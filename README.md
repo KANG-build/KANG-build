@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=didtldms2525)](https://solved.ac/didtldms2525/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KANG-build)](https://github.com/anuraghazra/github-readme-stats)
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
